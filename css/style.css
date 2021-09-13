@@ -4,6 +4,12 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+/* header */
+#header{
+  text-align: center;
+  color: orange;
+}
+
 /* search box */
 .search-field {
   border: none;
